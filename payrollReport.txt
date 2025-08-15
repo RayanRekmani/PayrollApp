@@ -1,0 +1,8 @@
+                                iDroid Solutions                                                
+                               -----------------                                                
+Employee ID     First Name      Last Name       Gross Salary    Deductions      Net Salary      
+16783           JOHN            CONNAUGHT       $15860.00       $2051.33        $13808.67       
+22310           CLAUDIA         O’HARE          $15542.80       $2010.31        $13532.49       
+812             VICTORIA        PORTER          $17784.00       $4967.78        $12816.22       
+31718           PHILLIP         LENNOX          $29302.00       $12287.50       $17014.50       
+11528           NANCY           TROOPER         $32760.00       $13737.58       $19022.42       
